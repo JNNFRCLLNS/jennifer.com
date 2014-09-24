@@ -1,5 +1,6 @@
-Gitrepo for notes and experiments
-Leaflet 
-Ionic
-Famo.us
-open layers
+## Gitrepo for notes and experiments
+
+- Leaflet 
+- Ionic
+- Famo.us
+- open layers
